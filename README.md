@@ -15,7 +15,7 @@
 
 ### 🐺 [Huskii](https://huskii.be)
 
-A boutique digital studio from Diepenbeek. Web development, managed hosting, API integrations and drone video — small team, short lines, no fluff. Websites that load fast and do what they promise.
+A digital studio from Diepenbeek. Web development, managed hosting, API integrations and drone video — small team, short lines, no fluff. Websites that load fast and do what they promise.
 
 ### 🎯 [Expliciet](https://expliciet.be)
 
